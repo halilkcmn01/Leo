@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Halil Kocaman 2015730082</string>
+    <string name="boytv">Boy</string>
+    <string name="Kilotv">Kilo</string>
+    <string name="Bay">Erkek</string>
+    <string name="Bayan">Kadın</string>
+    <string name="Cinsiyet">Cinsiyet</string>
+    <string name="idealkg">İdeal Kg</string>
+    <string name="durum">Durumunuz</string>
+    <string name="zayif">Zayıf Durumdasınız.</string>
+    <string name="normaldenfazla">Normalden Fazla Kilodasınız.</string>
+    <string name="ideal">İdeal Kilodasınız !</string>
+    <string name="obez">Maalesef Obezsiniz ...</string>
+    <string name="kilolu">Kilolusunuz .</string>
+    <string name="diyet1sabah">Beyaz peynir ,Domates, Salatalık ,1 Dilim kepek ekmek , Şekersiz çay .</string>
+    <string name="diyet1oglen">Kepek ekmek 1 dilim , Çorba veya salata , Taze meyve veya fındık .</string>
+    <string name="diyet1aksam">Zeytinyağlı sebze yemeği , Çorba , Cacık veya salata .</string>
+    <string name="diyet2sabah"> 1 Bardak süt , 2 Poğaça , 1 Meyve .</string>
+    <string name="diyet2oglen">1 Orta boy karışık pizza , 1 bardak ayran veya meyve suyu .</string>
+    <string name="diyet2aksam">3 Dilim ekmek , 1 Tabak etli sebze yemeği , 1 Tabak pilav , 1 Tabak yoğurt  .</string>
+    <string name="diyet3sabah">1 Adet haşlanmış yumurta, Zeytinyağlı salata ,2 Dilim Çavdar veya kepekli ekmek, Şekersiz çay .</string>
+    <string name="diyet3oglen">Bakliyat, sebze, kırmızı et, yoğurt, salata ve ekmek, makarna ya da pilav.</string>
+    <string name="diyet3aksam">Bakliyat, Balık ürünleri, Sebze yemekleri, Beyaz et ve Kırmızı et (En Fazla Haftada 3 kere).</string>
+    <string name="egzersizvideo">Egzersiz Yapmanız İçin Hızlandırılmış Videomuzdan Yardım Alabilirsiniz.</string>
+    <string name="diyettext">Diyet Menünüz (Günlük)</string>
+</resources>
